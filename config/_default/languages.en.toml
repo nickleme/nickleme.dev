@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Nicolas Leme"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+author = { image = "Site_Retrato_Nicolas.png", name = "Nicolas Leme", headline = "Would you kindly ?", bio = "Senior Gameplay Programmer | Crazy about Data Oriented Design", links = [ { bluesky = "https://bsky.app/profile/nickleme.bsky.social" }, { email = "mailto:nicolasleme@gmail.com" }, { github = "https://github.com/nickleme" }, { linkedin = "https://www.linkedin.com/in/nicolaspleme/" } ] }
+description = "Portifolio and Blog website for Nicolas Leme"

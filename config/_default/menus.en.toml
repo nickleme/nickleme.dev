@@ -1,0 +1,26 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pre = "lightbulb"
+pageRef = "about"
+identifier = "WXQU1WSYJF"
+weight = 9999
+
+[[main]]
+name = "Projects"
+pre = "list"
+pageRef = "projects"
+identifier = "6r4LVK5Cq0"
+weight = 9999
+
+[[main]]
+name = "CV"
+pre = "list"
+pageRef = "cv"
+identifier = "6r4LVK5Cq0"
+weight = 9998
+
+[[footer]]
+none = "none"

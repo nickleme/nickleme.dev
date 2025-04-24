@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on Nicolas Leme</title>
+    <link>http://localhost:1313/tags/game/</link>
+    <description>Recent content in Game on Nicolas Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Nicolas Leme</copyright>
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ocarina Studios</title>
+      <link>http://localhost:1313/projects/ocarina-studios/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ocarina-studios/</guid>
+      <description>Mobile Games [Unity]</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ocarina-studios/cover.png" />
+    </item>
+    
+    <item>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
+      <description>Award Winning Online Multiplayer Game [Unity]</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
+    </item>
+    
+    <item>
+      <title>Sky Caravan</title>
+      <link>http://localhost:1313/projects/sky-caravan/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/sky-caravan/</guid>
+      <description>Text Based RPG [Unity]</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
