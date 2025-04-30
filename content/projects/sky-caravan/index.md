@@ -49,17 +49,24 @@ Ink itself does have a GUI to test your story, but it was outside Unity and didn
   <img src="imgui_2.png" class="grid-w50" /> 
 {{< /gallery >}}
 
-During the final stretch I felt something that was new to me: how the last 10% of work actually matters to the player. While I was waiting for a QA round to end and I had a few hours with the project for myself, I implemented a few physics-simulated cables in the HUD using Verlet integration—something I've wanted to use for a while. In the grand scheme of things, it was just a flare, a tiny feature that didn't impact the gameplay and wasn't really necessary. The team loved it; they said that it increased immersion, and the artists even did some particles to go along with it. Some players did notice it as well! This is the type of lesson you can only learn when you go above 90% of completion in a project and go for the final push to release it.
+> Ink Manager that helped writers and designers Ink content. | 
+> The Missions Control allowed jumps around in the story/missions.
+
+During the final stretch I felt something that was new to me: the last 10% of work actually matters to the player. While I was waiting for a QA round to end and I had a few hours with the project for myself, I implemented a few physics-simulated cables in the HUD using Verlet integration—something I've wanted to use for a while. In the grand scheme of things, it was just a flare, a tiny feature that didn't impact the gameplay and wasn't really necessary. The team loved it! They said that it increased immersion and the artists even did some particles to go along with it. Some players did notice it as well! This is the type of lesson you can only learn when you go above 90% of completion in a project and go for the final push to release it.
 
 {{< video src="verlet_cables" autoplay="false" >}}
 
+> Cables, cables everywhere!
+
 I've also learned that the game you release might be very different from the game you've started developing. It's not a secret anymore—we've discussed it in podcasts and blog posts—but Sky Caravan started as a "narrative roguelite" and was later reworked to be a linear narrative. 
 
-At the start we crafted numerous small story moments that were pieced together by a procedural system. It was very exciting to design a new system with a weighted randomized selection of story moments based on tags—"mystery","crew","action","location", etc. We found out sooner rather than later that without a bespoken narrative thread gluing the story moments together, everything felt flat and uninspiring. So after a very brief moment of discussion where everyone agreed, we switched to a linear experience. The funny thing is that the roguelite backend system is still there, but it always draws the same story moments in the same order—this was cheaper than rewriting the entire sytem.
+At the start we crafted numerous small story moments that were pieced together by a procedural system. It was very exciting to design a new system with a weighted randomized selection of story moments based on tags—*mystery, crew, action, location, etc*. We found out sooner rather than later that without a bespoken narrative thread gluing the story moments together, everything felt flat and uninspiring. So after a very brief moment of discussion where everyone agreed, we switched to a linear experience. The funny thing is that the roguelite backend system is still there, but it always draws the same story moments in the same order—this was cheaper than rewriting the entire sytem.
 
 Post launch we even worked on a full Twitch integration to enable streamers to play alongside the chat. This feature wasn't in the original scope of the game, but launching it gave us some confidence that it should be done.
 
 {{< video src="twitch_integration" autoplay="false" >}}
+
+> Twitch integration that could be used by streamers.
 
 Sky Caravan was a fantastic project! To this day we call it our post graduation course on game development. We learned a lot, shipped a complete game, launched it for the Switch and created a true Brazilian game that we are really proud of. Currently the game has 100% positive reviews on Steam, which brings me immense joy.
 
