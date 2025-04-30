@@ -11,17 +11,27 @@ showWordCount: false
 showAuthor: true
 showAuthorBadges: true
 showPagination: false
+weight: 2
 ---
 
 > Have you ever seen Capybaras this powerful before ?
 
 {{< gallery >}}
     <img src="l1.png" class="grid-w60" />
-{{< /gallery >}}  
+{{< /gallery >}}
 
-## Responsabilities 
+### Technical Details
 
-**Creative Director, Gameplay Programmer, Network Programmer, Business Developer**
+- Released on [Steam](https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/) in December 2023
+- Coming Q1 2025 to Xbox Series X/S, PS4, PS5 & Nintendo Switch
+- Developed in Unity
+- Networking Library used: 
+
+{{< github repo="FirstGearGames/FishNet" >}}
+
+## Details & Responsibilities 
+
+**Creative Director, Gameplay Programmer**
 
 - Prototyped, implemented and optimized weapons, enemies and gameplay systems with full online synchronization
 up to 4 players in a P2P architecture.
@@ -31,7 +41,7 @@ segments. Allowing the optimization of CPU and GPU bottlenecks.
 
 - Analyzed data from analytics and player feedback to correctly adjust team focus.
 
-- Together with [Yann Lemos](yannlemos.com) implemented development/debug tools using the ImGui framework. A version of this *development console* is available in the following repository:
+- Together with [Yann Lemos](yannlemos.com) implemented testing/debug tools using the ImGui framework. A version of this *development console* is available in the following repository:
 
 {{< github repo="yannlemos/EPC-Developer-Console" >}}
 
