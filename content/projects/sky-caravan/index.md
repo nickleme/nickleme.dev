@@ -23,7 +23,7 @@ weight: 2
   <img src="a4.png" class="grid-w33" />
 {{< /gallery >}}
 
-### Technical Details
+## Technical Details
 
 - Released on [Steam](https://store.steampowered.com/app/1792270/Sky_Caravan/) in 2022
 - Released on the [Nintendo Switch](https://www.nintendo.com/us/store/products/sky-caravan-switch/) in 2023 
