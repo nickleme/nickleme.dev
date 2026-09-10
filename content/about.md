@@ -31,4 +31,3 @@ Over the past 9 years, I've been using Unity to successfully launch games on Ste
 I love working on every aspect of the gameplay experience, whether crafting weapons, designing enemies, or optimizing inventory systems.
 
 Collaborative environments are my safe space, as I'm used to closely partnering with design and art teams to develop tools that enhance engine capabilities and streamline debugging processes.
-

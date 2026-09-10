@@ -1,5 +1,5 @@
 ---
 title: "Nicolas Leme"
-description: "Senior Gameplay Programmer"
+description: "Senior Software Engineer"
 ---
-Trying to figure out my place on the internet, associate at [Studio Bravarda](https://studiobravarda.com/) and open to new opportunities.
+Trying to figure out my place on the internet, Senior Software Engineer at [Fortis Games](https://www.fortisgames.com) and open to new opportunities.

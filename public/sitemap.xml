@@ -3,37 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:60201/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+    <loc>https://nickleme.dev/projects/fortis-games/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:60201/projects/ocarina-studios/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:60201/projects/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:60201/projects/extremely-powerful-capybaras/</loc>
+    <loc>https://nickleme.dev/projects/extremely-powerful-capybaras/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:60201/projects/sky-caravan/</loc>
+    <loc>https://nickleme.dev/projects/sky-caravan/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:60201/about/</loc>
+    <loc>https://nickleme.dev/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nickleme.dev/projects/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nickleme.dev/projects/ocarina-studios/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nickleme.dev/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

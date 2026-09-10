@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nicolas Leme</title>
-    <link>http://localhost:60201/tags/</link>
+    <link>https://nickleme.dev/tags/</link>
     <description>Recent content in Tags on Nicolas Leme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Nicolas Leme</copyright>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60201/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Nicolas Leme</copyright>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nickleme.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game</title>
-      <link>http://localhost:60201/tags/game/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://nickleme.dev/tags/game/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60201/tags/game/</guid>
+      <guid>https://nickleme.dev/tags/game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Dev</title>
-      <link>http://localhost:60201/tags/game-dev/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://nickleme.dev/tags/game-dev/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60201/tags/game-dev/</guid>
+      <guid>https://nickleme.dev/tags/game-dev/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:60201/tags/portfolio/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://nickleme.dev/tags/portfolio/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60201/tags/portfolio/</guid>
+      <guid>https://nickleme.dev/tags/portfolio/</guid>
       <description></description>
       
     </item>
