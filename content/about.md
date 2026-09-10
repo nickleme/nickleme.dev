@@ -11,6 +11,7 @@ showPagination: false
 
 ## Info
 
+- Senior Software Engineer at [Fortis Games](https://www.fortisgames.com). Owning full stack features across client, server and shared code.
 - Co-founder (now associate) of [Studio Bravarda](studiobravarda.com), where I directed/developed [Extremely Powerful Capybaras](http://nickleme/projects/extremely-powerful-capybaras/) and developed [Sky Caravan](http://nickleme/projects/sky-caravan/) with friends and shipped them to multiple platforms.
 - Winner of [Best Multiplayer Game at Gamescom Latam 2024](https://latam.gamescom.global/en/winners/) and nominated for several industry awards, such as Most Innovative Newcomer, Best Narrative and Best Brazilian Game.
 - Proficient in Unity/C# with over 8 years of experience using the engine to ship 2 Steam Games and 4+ Mobile Games.
@@ -19,13 +20,13 @@ showPagination: false
 
 Hey there!
 
-I'm Nick a Senior Gameplay Programmer that shipped games with [Studio Bravarda](studiobravarda.com) and [Ocarina Studios](https://www.ocarinastudios.com/). Now just an associate at Bravarda, I'm looking for new opportunities in the gaming industry.
+I'm Nick a Senior Software Engineer that shipped games with [Studio Bravarda](studiobravarda.com) and [Ocarina Studios](https://www.ocarinastudios.com/). Now at [Fortis Games](https://www.fortisgames.com). Owning full stack features across client, server and shared code.
 
 Having experienced the indie development struggles, the birth and collapse of startups, and the hardships of the gaming industry, I have a lot to add to any project. 
 
 I'm experienced working on games from the first prototype to completion within small remote teams and tight deadlines.
 
-Over the past 8 years, I've been using Unity to successfully launch games on Steam, Switch and Google Play Store.
+Over the past 9 years, I've been using Unity to successfully launch games on Steam, Switch and Google Play Store. Studying, making prototypes and small bussiness projects in Godot.
 
 I love working on every aspect of the gameplay experience, whether crafting weapons, designing enemies, or optimizing inventory systems.
 
